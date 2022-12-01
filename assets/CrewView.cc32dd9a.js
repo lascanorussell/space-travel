@@ -1,0 +1,1 @@
+import{_ as e,o as r,c}from"./index.53ff99c5.js";const s={},t={class:"crew h-screen w-screen xl:bg-[url('@/assets/crew/background-crew-desktop.jpg')] lg:bg-[url('@/assets/crew/background-crew-tablet.jpg')] bg-[url('@/assets/crew/background-crew-mobile.jpg')] bg-cover bg-center"};function o(a,n,g,l,p,_){return r(),c("section",t)}var u=e(s,[["render",o]]);export{u as default};
